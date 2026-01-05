@@ -16,6 +16,7 @@ Three layers:
 #### Q-3 What is micro-partitioning?
 
 - Automatic division of data into optimized partitions for fast querying.
+- Snowflake automatically divides data into immutable micro-partitions (~16MB) with metadata used for pruning during queries.
 
 #### Q-4 Does Snowflake support indexes?
 
