@@ -60,7 +60,7 @@ Snowflake supports workloads from BI to AI using:
 
 
 
-![Warehouse Architecture](../../images/image_1.png)
+![Warehouse Architecture](./snowflake/images/image_1.png)
 
 ![Use Case](./images/image_2.png)
 
